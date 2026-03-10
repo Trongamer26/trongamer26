@@ -50,3 +50,49 @@ Test system using accessibility tools and assistive technologies
 
 
 
+1️⃣ Briefly restate the problem
+
+Remind the reader what the issue was.
+
+Example idea:
+
+GibJohn Tutoring currently relies mainly on face-to-face tutoring, which limits flexibility and access to learning resources outside sessions.
+
+This shows you understand the original need.
+
+⸻
+
+2️⃣ Restate the solution clearly
+
+Mention the LMS as the solution and what it includes.
+
+Example:
+
+The proposed Learning Management System provides a centralised platform for course management, assignment submission, communication, and progress tracking.
+
+⸻
+
+3️⃣ Mention the key benefits
+
+Summarise the main improvements.
+
+Examples:
+	•	flexible learning
+	•	better monitoring of progress
+	•	improved communication
+	•	increased engagement
+
+⸻
+
+4️⃣ Reference compliance and safety
+
+Since education systems must follow regulations, mention:
+	•	GDPR
+	•	safeguarding
+	•	accessibility
+
+⸻
+
+5️⃣ Finish with a strong final statement
+
+Something about future growth or long-term value.
